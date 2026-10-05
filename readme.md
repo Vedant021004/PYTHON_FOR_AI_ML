@@ -1,4 +1,4 @@
-# Python - Closures & Decorators Guide 🐍
+# Python - Closures & Decorators Guide 
 
 > Author: [Vedant021004](https://github.com/Vedant021004)
 
