@@ -6,37 +6,37 @@
 
 * [X] **1.** Write a program to check whether a number is positive, negative, or zero.
 
-* [ ] **2.** Write a program to check whether a number is even or odd.
+* [X] **2.** Write a program to check whether a number is even or odd.
 
-* [ ] **3.** Take age as input and print whether the person is eligible to vote.
+* [X] **3.** Take age as input and print whether the person is eligible to vote.
 
-* [ ] **4.** Take three numbers and print the largest number using `if-elif-else`.
+* [X] **4.** Take three numbers and print the largest number using `if-elif-else`.
 
-* [ ] **5.** Check whether a given year is a leap year.
+* [X] **5.** Check whether a given year is a leap year.
 
 ---
 
 ### Functions
 
-* [ ] **6.** Create a function `greet()` that prints `"Hello Python"`.
+* [X] **6.** Create a function `greet()` that prints `"Hello Python"`.
 
-* [ ] **7.** Create a function that accepts a name and prints `"Hello Vedant"`.
+* [X] **7.** Create a function that accepts a name and prints `"Hello Vedant"`.
 
-* [ ] **8.** Create a function that accepts two numbers and returns their sum.
+* [X] **8.** Create a function that accepts two numbers and returns their sum.
 
-* [ ] **9.** Create a function that accepts a number and returns whether it is even or odd.
+* [X] **9.** Create a function that accepts a number and returns whether it is even or odd.
 
-* [ ] **10.** Create a function that accepts three numbers and returns the largest.
+* [X] **10.** Create a function that accepts three numbers and returns the largest.
 
 ---
 
 ### `try/except`
 
-* [ ] **11.** Ask the user for two numbers and divide them. Handle division by zero.
+* [X] **11.** Ask the user for two numbers and divide them. Handle division by zero.
 
-* [ ] **12.** Ask the user to enter an integer. Handle the case where the user enters text.
+* [X] **12.** Ask the user to enter an integer. Handle the case where the user enters text.
 
-* [ ] **13.** Write a program that handles both `ValueError` and `ZeroDivisionError`.
+* [X] **13.** Write a program that handles both `ValueError` and `ZeroDivisionError`.
 
 * [ ] **14.** Create a program using `try`, `except`, and `finally`.
 
@@ -48,34 +48,33 @@
 
 ### Class and Object
 
-* [ ] **16.** Create a `Car` class with a method `drive()` that prints `"Car is driving"`.
+* [X] **16.** Create a `Car` class with a method `drive()` that prints `"Car is driving"`.
 
-* [ ] **17.** Create a `Student` class with `name` and `age` attributes.
+* [X] **17.** Create a `Student` class with `name` and `age` attributes.
 
-* [ ] **18.** Create a `Car` class with `brand` and `model` using `__init__()`.
-
+* [X] **18.** Create a `Car` class with `brand` and `model` using `__init__()`.
 Example:
 
 ```text
 car = Car("Toyota", "Fortuner")
 ```
 
-* [ ] **19.** Create a `Person` class with `name` and `age`, then create **three objects**.
+* [X] **19.** Create a `Person` class with `name` and `age`, then create **three objects**.
 
-* [ ] **20.** Create a `BankAccount` class with `name` and `balance`, then create an object and print both.
+* [X] **20.** Create a `BankAccount` class with `name` and `balance`, then create an object and print both.
 
 ---
 
 # 🟡 LEVEL 3 — Functions + OOP
 
-* [ ] **21.** Create a `Calculator` class with methods:
+* [X] **21.** Create a `Calculator` class with methods:
 
   * `add()`
   * `subtract()`
   * `multiply()`
   * `divide()`
 
-* [ ] **22.** Create a `Car` class with:
+* [X] **22.** Create a `Car` class with:
 
   * `brand`
   * `model`
